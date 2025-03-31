@@ -10,7 +10,7 @@ public class UserTest {
         user.setName("Henry");
         String actual = user.getName();
         String expected = "Henry";
-
+String none = "";
         assertEquals(expected, actual);
 
 
